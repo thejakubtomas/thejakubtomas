@@ -1,4 +1,4 @@
-![image](https://github.com/thejakubtomas/thejakubtomas/assets/115746935/a19ff4aa-846f-4c65-a2e1-550bf6c34539)
+![image](https://github.com/thejakubtomas/thejakubtomas/assets/115746935/ce658b65-846b-4475-92da-4f93082781d1)
 
 ### Hi there 👋
 My name is Jakub and I am a software developer. <br />
